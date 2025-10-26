@@ -8,7 +8,7 @@ export default function Header() {
       <ActionRow align='center'>
         <Link to="/" className="brand">
           <img src="/src/assets/logo.png" alt="" aria-hidden="true" />
-            <span>Reciclaê</span>
+            <span>ReciclaÊ</span>
         </Link>
         <NavBar />
         
